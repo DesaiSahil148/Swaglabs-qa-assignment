@@ -1,0 +1,2275 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R 10 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Length 2292 >>
+stream
+1.2 w
+0.75 0.82 0.9 RG
+36.00 36.00 720.00 540.00 re
+S
+1 w
+0 0.38 0.85 rg
+56.00 450.00 10.00 85.00 re
+f
+1 w
+0.05 0.14 0.28 rg
+66.00 450.00 610.00 85.00 re
+f
+BT
+/F2 20 Tf
+1 1 1 rg
+84.00 498.00 Td
+(QA TEST CASE REPORT) Tj
+ET
+BT
+/F1 11 Tf
+0.88 0.92 0.98 rg
+84.00 474.00 Td
+(Swag Labs \(SauceDemo\) - Test Cases & Defect Execution Matrix) Tj
+ET
+BT
+/F2 9.5 Tf
+0.05 0.14 0.28 rg
+76.00 405.00 Td
+(Target Application:) Tj
+ET
+BT
+/F1 9.5 Tf
+0.15 0.18 0.22 rg
+210.00 405.00 Td
+(https://www.saucedemo.com) Tj
+ET
+BT
+/F2 9.5 Tf
+0.05 0.14 0.28 rg
+76.00 380.00 Td
+(Project Name:) Tj
+ET
+BT
+/F1 9.5 Tf
+0.15 0.18 0.22 rg
+210.00 380.00 Td
+(Swag Labs E-Commerce QA Assessment) Tj
+ET
+BT
+/F2 9.5 Tf
+0.05 0.14 0.28 rg
+76.00 355.00 Td
+(Evaluation Type:) Tj
+ET
+BT
+/F1 9.5 Tf
+0.15 0.18 0.22 rg
+210.00 355.00 Td
+(Black-Box Manual Functional & Regression Testing) Tj
+ET
+BT
+/F2 9.5 Tf
+0.05 0.14 0.28 rg
+76.00 330.00 Td
+(Author / Role:) Tj
+ET
+BT
+/F1 9.5 Tf
+0.15 0.18 0.22 rg
+210.00 330.00 Td
+(QA Tester / Software Test Engineer) Tj
+ET
+BT
+/F2 9.5 Tf
+0.05 0.14 0.28 rg
+76.00 305.00 Td
+(Date of Execution:) Tj
+ET
+BT
+/F1 9.5 Tf
+0.15 0.18 0.22 rg
+210.00 305.00 Td
+(November 2026) Tj
+ET
+BT
+/F2 9.5 Tf
+0.05 0.14 0.28 rg
+76.00 280.00 Td
+(Test Environments:) Tj
+ET
+BT
+/F1 9.5 Tf
+0.15 0.18 0.22 rg
+210.00 280.00 Td
+(Windows 11 \(Google Chrome, Mozilla Firefox\) & Mobile) Tj
+ET
+BT
+/F2 9.5 Tf
+0.05 0.14 0.28 rg
+76.00 255.00 Td
+(Total Test Cases:) Tj
+ET
+BT
+/F1 9.5 Tf
+0.15 0.18 0.22 rg
+210.00 255.00 Td
+(19 Documented Cases \(12 Standard Flows + 7 Defect Verifications\)) Tj
+ET
+1 w
+0.93 0.96 0.98 rg
+0.7 0.8 0.9 RG
+76.00 120.00 640.00 48.00 re
+B
+BT
+/F2 8.5 Tf
+0.05 0.14 0.28 rg
+90.00 150.00 Td
+(Report Description & Document Overview) Tj
+ET
+BT
+/F1 7.5 Tf
+0.25 0.28 0.32 rg
+90.00 137.00 Td
+(This document details comprehensive test cases covering authentication, product catalog browsing, cart operations,) Tj
+ET
+BT
+/F1 7.5 Tf
+0.25 0.28 0.32 rg
+90.00 126.00 Td
+(checkout validations, and security redirects. Includes exact steps, inputs, expected results, actual results, and severity ratings.) Tj
+ET
+1 w
+0.85 0.88 0.92 RG
+36.00 36.00 m
+756.00 36.00 l
+S
+BT
+/F1 7.5 Tf
+0.45 0.5 0.56 rg
+40.00 22.00 Td
+(Swag Labs QA Test Case Report  |  Confidential QA Deliverable) Tj
+ET
+BT
+/F2 7.5 Tf
+0.05 0.14 0.28 rg
+700.00 22.00 Td
+(Page 1 of 4) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> /F3 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >> >> >> /Contents 3 0 R >>
+endobj
+5 0 obj
+<< /Length 10060 >>
+stream
+BT
+/F1 7.5 Tf
+0.4 0.45 0.5 rg
+36.00 582.00 Td
+(Swag Labs QA - Test Case Report & Defect Matrix) Tj
+ET
+BT
+/F1 7.5 Tf
+0.4 0.45 0.5 rg
+620.00 582.00 Td
+(Target: https://www.saucedemo.com) Tj
+ET
+1 w
+0.05 0.14 0.28 rg
+36.00 552.00 720.00 22.00 re
+f
+BT
+/F2 8 Tf
+1 1 1 rg
+42.00 559.00 Td
+(ID) Tj
+ET
+BT
+/F2 8 Tf
+1 1 1 rg
+86.00 559.00 Td
+(Title) Tj
+ET
+BT
+/F2 8 Tf
+1 1 1 rg
+192.00 559.00 Td
+(Steps) Tj
+ET
+BT
+/F2 8 Tf
+1 1 1 rg
+352.00 559.00 Td
+(Expected Result) Tj
+ET
+BT
+/F2 8 Tf
+1 1 1 rg
+497.00 559.00 Td
+(Actual Result) Tj
+ET
+BT
+/F2 8 Tf
+1 1 1 rg
+682.00 559.00 Td
+(Severity) Tj
+ET
+1 w
+1 1 1 rg
+36.00 490.40 720.00 61.60 re
+f
+0.6 w
+0.85 0.88 0.92 RG
+36.00 490.40 m
+756.00 490.40 l
+S
+BT
+/F2 7.5 Tf
+0 0.32 0.75 rg
+42.00 538.00 Td
+(TC-01) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 538.00 Td
+(Valid User Login \(Happy) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 529.40 Td
+(Path\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 539.00 Td
+(1. Navigate to https://www.saucedemo.com.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 530.60 Td
+(2. Enter standard_user into the Username) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 522.20 Td
+(field.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 513.80 Td
+(3. Enter secret_sauce into the Password) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 505.40 Td
+(field.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 497.00 Td
+(4. Click the "Login" button.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 539.00 Td
+(User is redirected to /inventory.html.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 530.60 Td
+(The page header displays "Products") Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 522.20 Td
+(and 6 product items are visible.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+497.00 539.00 Td
+(User successfully lands on /inventory.html with) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+497.00 530.60 Td
+(all products displayed.) Tj
+ET
+BT
+/F2 7.5 Tf
+0.12 0.55 0.22 rg
+682.00 538.00 Td
+(Low \(Pass\)) Tj
+ET
+1 w
+0.97 0.98 0.99 rg
+36.00 428.80 720.00 61.60 re
+f
+0.6 w
+0.85 0.88 0.92 RG
+36.00 428.80 m
+756.00 428.80 l
+S
+BT
+/F2 7.5 Tf
+0 0.32 0.75 rg
+42.00 476.40 Td
+(TC-02) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 476.40 Td
+(Login with Locked-Out) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 467.80 Td
+(User) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 477.40 Td
+(1. Navigate to https://www.saucedemo.com.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 469.00 Td
+(2. Enter locked_out_user into the Username) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 460.60 Td
+(field.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 452.20 Td
+(3. Enter secret_sauce into the Password) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 443.80 Td
+(field.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 435.40 Td
+(4. Click the "Login" button.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 477.40 Td
+(Login is rejected. User stays on login) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 469.00 Td
+(page. A red error banner appears) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 460.60 Td
+(stating: "Epic sadface: Sorry, this) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 452.20 Td
+(user has been locked out." Both fields) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 443.80 Td
+(display red error icons.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+497.00 477.40 Td
+(Error banner displayed exactly as expected; user) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+497.00 469.00 Td
+(remained on login page.) Tj
+ET
+BT
+/F2 7.5 Tf
+0.78 0.45 0.05 rg
+682.00 476.40 Td
+(Medium \(Pass\)) Tj
+ET
+1 w
+1 1 1 rg
+36.00 380.80 720.00 48.00 re
+f
+0.6 w
+0.85 0.88 0.92 RG
+36.00 380.80 m
+756.00 380.80 l
+S
+BT
+/F2 7.5 Tf
+0 0.32 0.75 rg
+42.00 414.80 Td
+(TC-03) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 414.80 Td
+(Login with Blank) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 406.20 Td
+(Username and Password) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 415.80 Td
+(1. Navigate to https://www.saucedemo.com.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 407.40 Td
+(2. Leave both Username and Password fields) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 399.00 Td
+(empty.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 390.60 Td
+(3. Click the "Login" button.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 415.80 Td
+(Error message appears: "Epic sadface:) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 407.40 Td
+(Username is required". No page) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 399.00 Td
+(redirection occurs.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+497.00 415.80 Td
+(Red error banner displayed with "Epic sadface:) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+497.00 407.40 Td
+(Username is required".) Tj
+ET
+BT
+/F2 7.5 Tf
+0.78 0.45 0.05 rg
+682.00 414.80 Td
+(Medium \(Pass\)) Tj
+ET
+1 w
+0.97 0.98 0.99 rg
+36.00 319.20 720.00 61.60 re
+f
+0.6 w
+0.85 0.88 0.92 RG
+36.00 319.20 m
+756.00 319.20 l
+S
+BT
+/F2 7.5 Tf
+0 0.32 0.75 rg
+42.00 366.80 Td
+(TC-04) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 366.80 Td
+(Product Inventory) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 358.20 Td
+(Display Count) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 367.80 Td
+(1. Navigate to /inventory.html.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 359.40 Td
+(2. Count the visible product cards on the) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 351.00 Td
+(page.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 342.60 Td
+(3. Verify that each item has a title,) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 334.20 Td
+(image, description, price, and "Add to) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 325.80 Td
+(cart" button.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 367.80 Td
+(Exactly 6 distinct products are) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 359.40 Td
+(displayed, each with its proper image,) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 351.00 Td
+(details, price, and action button.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+497.00 367.80 Td
+(6 distinct products displayed with correct) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+497.00 359.40 Td
+(information and buttons.) Tj
+ET
+BT
+/F2 7.5 Tf
+0.12 0.55 0.22 rg
+682.00 366.80 Td
+(Low \(Pass\)) Tj
+ET
+1 w
+1 1 1 rg
+36.00 266.20 720.00 53.00 re
+f
+0.6 w
+0.85 0.88 0.92 RG
+36.00 266.20 m
+756.00 266.20 l
+S
+BT
+/F2 7.5 Tf
+0 0.32 0.75 rg
+42.00 305.20 Td
+(TC-05) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 305.20 Td
+(Product Sorting by) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 296.60 Td
+(Price \(Low to High\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 306.20 Td
+(1. Click on the product sort dropdown in) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 297.80 Td
+(the upper right.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 289.40 Td
+(2. Select Price \(low to high\).) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 281.00 Td
+(3. Check the order of product prices) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 272.60 Td
+(displayed from top to bottom.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 306.20 Td
+(Products reorder in ascending price) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 297.80 Td
+(order: first item is $7.99 \(Sauce Labs) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 289.40 Td
+(Onesie\) and last item is $49.99 \(Sauce) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 281.00 Td
+(Labs Fleece Jacket\).) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+497.00 306.20 Td
+(Products correctly sorted from $7.99 up to $49.99.) Tj
+ET
+BT
+/F2 7.5 Tf
+0.12 0.55 0.22 rg
+682.00 305.20 Td
+(Low \(Pass\)) Tj
+ET
+1 w
+0.97 0.98 0.99 rg
+36.00 218.20 720.00 48.00 re
+f
+0.6 w
+0.85 0.88 0.92 RG
+36.00 218.20 m
+756.00 218.20 l
+S
+BT
+/F2 7.5 Tf
+0 0.32 0.75 rg
+42.00 252.20 Td
+(TC-06) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 252.20 Td
+(Product Images for) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 243.60 Td
+(problem_user) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 253.20 Td
+(1. Login with problem_user / secret_sauce.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 244.80 Td
+(2. Observe the product catalog images on) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 236.40 Td
+(/inventory.html.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 253.20 Td
+(Each of the 6 products should display) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 244.80 Td
+(its own unique photo \(backpack, bike) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 236.40 Td
+(light, t-shirt, jacket, onesie, red) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 228.00 Td
+(t-shirt\).) Tj
+ET
+BT
+/F1 6.8 Tf
+0.82 0.12 0.12 rg
+497.00 253.20 Td
+(All 6 products display the exact same image of a) Tj
+ET
+BT
+/F1 6.8 Tf
+0.82 0.12 0.12 rg
+497.00 244.80 Td
+(puppy dog \(sl-404.168b1cce.jpg\).) Tj
+ET
+BT
+/F2 7.5 Tf
+0.78 0.45 0.05 rg
+682.00 252.20 Td
+(High) Tj
+ET
+1 w
+1 1 1 rg
+36.00 156.60 720.00 61.60 re
+f
+0.6 w
+0.85 0.88 0.92 RG
+36.00 156.60 m
+756.00 156.60 l
+S
+BT
+/F2 7.5 Tf
+0 0.32 0.75 rg
+42.00 204.20 Td
+(TC-07) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 204.20 Td
+(Add Single Item to Cart) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 195.60 Td
+(& Update Badge) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 205.20 Td
+(1. Locate "Sauce Labs Backpack" on the) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 196.80 Td
+(inventory page.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 188.40 Td
+(2. Click the "Add to cart" button.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 180.00 Td
+(3. Observe the shopping cart icon in the) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 171.60 Td
+(top right.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 163.20 Td
+(4. Observe the item button.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 205.20 Td
+(The cart icon displays a badge with) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 196.80 Td
+(the number 1. The button text switches) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 188.40 Td
+(from "Add to cart" to "Remove".) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+497.00 205.20 Td
+(Cart badge shows 1 and the button changes to) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+497.00 196.80 Td
+("Remove".) Tj
+ET
+BT
+/F2 7.5 Tf
+0.12 0.55 0.22 rg
+682.00 204.20 Td
+(Low \(Pass\)) Tj
+ET
+1 w
+0.85 0.88 0.92 RG
+36.00 36.00 m
+756.00 36.00 l
+S
+BT
+/F1 7.5 Tf
+0.45 0.5 0.56 rg
+36.00 22.00 Td
+(Swag Labs \(SauceDemo\) QA Test Case Documentation  |  Exact Text Unmodified) Tj
+ET
+BT
+/F2 7.5 Tf
+0.05 0.14 0.28 rg
+715.00 22.00 Td
+(Page 2 of 4) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> /F3 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >> >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 10587 >>
+stream
+BT
+/F1 7.5 Tf
+0.4 0.45 0.5 rg
+36.00 582.00 Td
+(Swag Labs QA - Test Case Report & Defect Matrix) Tj
+ET
+BT
+/F1 7.5 Tf
+0.4 0.45 0.5 rg
+620.00 582.00 Td
+(Target: https://www.saucedemo.com) Tj
+ET
+1 w
+0.05 0.14 0.28 rg
+36.00 552.00 720.00 22.00 re
+f
+BT
+/F2 8 Tf
+1 1 1 rg
+42.00 559.00 Td
+(ID) Tj
+ET
+BT
+/F2 8 Tf
+1 1 1 rg
+86.00 559.00 Td
+(Title) Tj
+ET
+BT
+/F2 8 Tf
+1 1 1 rg
+192.00 559.00 Td
+(Steps) Tj
+ET
+BT
+/F2 8 Tf
+1 1 1 rg
+352.00 559.00 Td
+(Expected Result) Tj
+ET
+BT
+/F2 8 Tf
+1 1 1 rg
+497.00 559.00 Td
+(Actual Result) Tj
+ET
+BT
+/F2 8 Tf
+1 1 1 rg
+682.00 559.00 Td
+(Severity) Tj
+ET
+1 w
+1 1 1 rg
+36.00 504.00 720.00 48.00 re
+f
+0.6 w
+0.85 0.88 0.92 RG
+36.00 504.00 m
+756.00 504.00 l
+S
+BT
+/F2 7.5 Tf
+0 0.32 0.75 rg
+42.00 538.00 Td
+(TC-08) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 538.00 Td
+(Add to Cart on) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 529.40 Td
+(problem_user Account) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 539.00 Td
+(1. Login as problem_user.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 530.60 Td
+(2. Locate "Sauce Labs Backpack".) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 522.20 Td
+(3. Click "Add to cart".) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 539.00 Td
+(The Backpack is added to cart, cart) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 530.60 Td
+(badge shows 1, button switches to) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 522.20 Td
+("Remove".) Tj
+ET
+BT
+/F1 6.8 Tf
+0.82 0.12 0.12 rg
+497.00 539.00 Td
+(The button does nothing. Button stays "Add to) Tj
+ET
+BT
+/F1 6.8 Tf
+0.82 0.12 0.12 rg
+497.00 530.60 Td
+(cart", cart badge remains empty, no feedback is) Tj
+ET
+BT
+/F1 6.8 Tf
+0.82 0.12 0.12 rg
+497.00 522.20 Td
+(given.) Tj
+ET
+BT
+/F2 7.5 Tf
+0.82 0.12 0.12 rg
+682.00 538.00 Td
+(Critical) Tj
+ET
+1 w
+0.97 0.98 0.99 rg
+36.00 451.00 720.00 53.00 re
+f
+0.6 w
+0.85 0.88 0.92 RG
+36.00 451.00 m
+756.00 451.00 l
+S
+BT
+/F2 7.5 Tf
+0 0.32 0.75 rg
+42.00 490.00 Td
+(TC-09) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 490.00 Td
+(Checkout Information) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 481.40 Td
+(Form Missing First Name) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 491.00 Td
+(1. Navigate to cart and click "Checkout".) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 482.60 Td
+(2. Leave the "First Name" field empty.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 474.20 Td
+(3. Enter Doe into "Last Name".) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 465.80 Td
+(4. Enter 94043 into "Zip/Postal Code".) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 457.40 Td
+(5. Click "Continue".) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 491.00 Td
+(Form submission blocked. Red error) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 482.60 Td
+(message appears: "Error: First Name is) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 474.20 Td
+(required". User remains on) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 465.80 Td
+(/checkout-step-one.html.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+497.00 491.00 Td
+(Error displayed as expected; submission was) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+497.00 482.60 Td
+(prevented.) Tj
+ET
+BT
+/F2 7.5 Tf
+0.78 0.45 0.05 rg
+682.00 490.00 Td
+(Medium \(Pass\)) Tj
+ET
+1 w
+1 1 1 rg
+36.00 403.00 720.00 48.00 re
+f
+0.6 w
+0.85 0.88 0.92 RG
+36.00 403.00 m
+756.00 403.00 l
+S
+BT
+/F2 7.5 Tf
+0 0.32 0.75 rg
+42.00 437.00 Td
+(TC-10) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 437.00 Td
+(Checkout Information) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 428.40 Td
+(Form Empty Last Name) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 438.00 Td
+(1. Enter John into "First Name".) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 429.60 Td
+(2. Leave "Last Name" completely empty.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 421.20 Td
+(3. Enter 94043 into "Zip/Postal Code".) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 412.80 Td
+(4. Click "Continue".) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 438.00 Td
+(Form should be rejected with an error) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 429.60 Td
+(message: "Error: Last Name is) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 421.20 Td
+(required".) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+497.00 438.00 Td
+(Form submission is blocked as expected. Red error) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+497.00 429.60 Td
+(banner displays: "Error: Last Name is required".) Tj
+ET
+BT
+/F2 7.5 Tf
+0.78 0.45 0.05 rg
+682.00 437.00 Td
+(Medium \(Pass\)) Tj
+ET
+1 w
+0.97 0.98 0.99 rg
+36.00 315.60 720.00 87.40 re
+f
+0.6 w
+0.85 0.88 0.92 RG
+36.00 315.60 m
+756.00 315.60 l
+S
+BT
+/F2 7.5 Tf
+0 0.32 0.75 rg
+42.00 389.00 Td
+(TC-11) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 389.00 Td
+(Full End-to-End) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 380.40 Td
+(Checkout Flow \(Happy) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 371.80 Td
+(Path\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 390.00 Td
+(1. Add "Sauce Labs Backpack" to cart.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 381.60 Td
+(2. Click the shopping cart icon.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 373.20 Td
+(3. On /cart.html, click "Checkout".) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 364.80 Td
+(4. Enter John, Doe, and 94043 on the) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 356.40 Td
+(Information page. Click "Continue".) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 348.00 Td
+(5. On Overview page) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 339.60 Td
+(\(/checkout-step-two.html\), verify item) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 331.20 Td
+(name, price \($29.99\), tax, and total.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 322.80 Td
+(6. Click "Finish".) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 390.00 Td
+(User is taken to) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 381.60 Td
+(/checkout-complete.html. A green) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 373.20 Td
+(checkmark appears with the header) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 364.80 Td
+("Thank you for your order!" and a) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 356.40 Td
+("Back Home" button.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+497.00 390.00 Td
+(Order completed successfully with confirmation) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+497.00 381.60 Td
+(header displayed.) Tj
+ET
+BT
+/F2 7.5 Tf
+0.12 0.55 0.22 rg
+682.00 389.00 Td
+(Low \(Pass\)) Tj
+ET
+1 w
+1 1 1 rg
+36.00 254.00 720.00 61.60 re
+f
+0.6 w
+0.85 0.88 0.92 RG
+36.00 254.00 m
+756.00 254.00 l
+S
+BT
+/F2 7.5 Tf
+0 0.32 0.75 rg
+42.00 301.60 Td
+(TC-12) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 301.60 Td
+(Direct URL Access) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 293.00 Td
+(Without Authentication) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 302.60 Td
+(1. Open a new Incognito / Private browser) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 294.20 Td
+(window.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 285.80 Td
+(2. Paste) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 277.40 Td
+(https://www.saucedemo.com/inventory.html) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 269.00 Td
+(directly into address bar and press Enter.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 302.60 Td
+(Application blocks access to the) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 294.20 Td
+(inventory page and redirects the user) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 285.80 Td
+(back to login page with an error:) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 277.40 Td
+("Epic sadface: You can only access) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 269.00 Td
+('/inventory.html' when you are logged) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 260.60 Td
+(in.") Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+497.00 302.60 Td
+(User was redirected to the login page and the) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+497.00 294.20 Td
+(error banner was displayed.) Tj
+ET
+BT
+/F2 7.5 Tf
+0.78 0.45 0.05 rg
+682.00 301.60 Td
+(Medium \(Pass\)) Tj
+ET
+1 w
+0.97 0.98 0.99 rg
+36.00 206.00 720.00 48.00 re
+f
+0.6 w
+0.85 0.88 0.92 RG
+36.00 206.00 m
+756.00 206.00 l
+S
+BT
+/F2 7.5 Tf
+0 0.32 0.75 rg
+42.00 240.00 Td
+(TC-13) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 240.00 Td
+(Footer Social Media) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 231.40 Td
+(Links Navigation) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 241.00 Td
+(1. Scroll down to the page footer.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 232.60 Td
+(2. Click the Twitter \(X\), Facebook, or) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 224.20 Td
+(LinkedIn social icon.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 241.00 Td
+(The social media page opens in a new) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 232.60 Td
+(browser tab, preserving the user's) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 224.20 Td
+(active shopping session in the) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 215.80 Td
+(original tab.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+497.00 241.00 Td
+(Social media links contain target="_blank" and) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+497.00 232.60 Td
+(open cleanly in a new browser tab, preserving) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+497.00 224.20 Td
+(shopping session.) Tj
+ET
+BT
+/F2 7.5 Tf
+0.12 0.55 0.22 rg
+682.00 240.00 Td
+(Low \(Pass\)) Tj
+ET
+1 w
+1 1 1 rg
+36.00 144.40 720.00 61.60 re
+f
+0.6 w
+0.85 0.88 0.92 RG
+36.00 144.40 m
+756.00 144.40 l
+S
+BT
+/F2 7.5 Tf
+0 0.32 0.75 rg
+42.00 192.00 Td
+(TC-14) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 192.00 Td
+("Remove" button fails) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 183.40 Td
+(silently inside cart) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 174.80 Td
+(for certain products) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 193.00 Td
+(1. Log in with problem_user.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 184.60 Td
+(2. Add "Sauce Labs Bike Light" to cart) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 176.20 Td
+(\(this item adds successfully\).) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 167.80 Td
+(3. Click the cart icon to open /cart.html.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 159.40 Td
+(4. Click the "Remove" button next to the) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 151.00 Td
+(Bike Light.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 193.00 Td
+(Bike Light is removed from the list) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 184.60 Td
+(and cart badge disappears.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.82 0.12 0.12 rg
+497.00 193.00 Td
+(Clicking "Remove" does nothing. The item remains) Tj
+ET
+BT
+/F1 6.8 Tf
+0.82 0.12 0.12 rg
+497.00 184.60 Td
+(in the cart permanently.) Tj
+ET
+BT
+/F2 7.5 Tf
+0.82 0.12 0.12 rg
+682.00 192.00 Td
+(Critical) Tj
+ET
+1 w
+0.85 0.88 0.92 RG
+36.00 36.00 m
+756.00 36.00 l
+S
+BT
+/F1 7.5 Tf
+0.45 0.5 0.56 rg
+36.00 22.00 Td
+(Swag Labs \(SauceDemo\) QA Test Case Documentation  |  Exact Text Unmodified) Tj
+ET
+BT
+/F2 7.5 Tf
+0.05 0.14 0.28 rg
+715.00 22.00 Td
+(Page 3 of 4) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> /F3 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >> >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 7369 >>
+stream
+BT
+/F1 7.5 Tf
+0.4 0.45 0.5 rg
+36.00 582.00 Td
+(Swag Labs QA - Test Case Report & Defect Matrix) Tj
+ET
+BT
+/F1 7.5 Tf
+0.4 0.45 0.5 rg
+620.00 582.00 Td
+(Target: https://www.saucedemo.com) Tj
+ET
+1 w
+0.05 0.14 0.28 rg
+36.00 552.00 720.00 22.00 re
+f
+BT
+/F2 8 Tf
+1 1 1 rg
+42.00 559.00 Td
+(ID) Tj
+ET
+BT
+/F2 8 Tf
+1 1 1 rg
+86.00 559.00 Td
+(Title) Tj
+ET
+BT
+/F2 8 Tf
+1 1 1 rg
+192.00 559.00 Td
+(Steps) Tj
+ET
+BT
+/F2 8 Tf
+1 1 1 rg
+352.00 559.00 Td
+(Expected Result) Tj
+ET
+BT
+/F2 8 Tf
+1 1 1 rg
+497.00 559.00 Td
+(Actual Result) Tj
+ET
+BT
+/F2 8 Tf
+1 1 1 rg
+682.00 559.00 Td
+(Severity) Tj
+ET
+1 w
+1 1 1 rg
+36.00 504.00 720.00 48.00 re
+f
+0.6 w
+0.85 0.88 0.92 RG
+36.00 504.00 m
+756.00 504.00 l
+S
+BT
+/F2 7.5 Tf
+0 0.32 0.75 rg
+42.00 538.00 Td
+(TC-15) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 538.00 Td
+(Sorting dropdown) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 529.40 Td
+(selection does not) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 520.80 Td
+(change product order) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 539.00 Td
+(1. Log in with problem_user.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 530.60 Td
+(2. Click the sort dropdown and select Price) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 522.20 Td
+(\(low to high\) or Name \(Z to A\).) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 539.00 Td
+(Products reorder according to the) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 530.60 Td
+(selected option.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.82 0.12 0.12 rg
+497.00 539.00 Td
+(The dropdown label updates in the UI, but the) Tj
+ET
+BT
+/F1 6.8 Tf
+0.82 0.12 0.12 rg
+497.00 530.60 Td
+(product list remains completely unchanged.) Tj
+ET
+BT
+/F2 7.5 Tf
+0.78 0.45 0.05 rg
+682.00 538.00 Td
+(High) Tj
+ET
+1 w
+0.97 0.98 0.99 rg
+36.00 425.20 720.00 78.80 re
+f
+0.6 w
+0.85 0.88 0.92 RG
+36.00 425.20 m
+756.00 425.20 l
+S
+BT
+/F2 7.5 Tf
+0 0.32 0.75 rg
+42.00 490.00 Td
+(TC-16) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 490.00 Td
+(Typing into "Last Name") Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 481.40 Td
+(field overwrites "First) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 472.80 Td
+(Name" field) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 491.00 Td
+(1. Log in as problem_user, add any workable) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 482.60 Td
+(item \(Bike Light\), and click Checkout.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 474.20 Td
+(2. Click the "First Name" input and type) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 465.80 Td
+(Alice.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 457.40 Td
+(3. Click the "Last Name" input and type) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 449.00 Td
+(Smith.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 440.60 Td
+(4. Look at what is inside the "First Name") Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 432.20 Td
+(input box.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 491.00 Td
+(First Name retains Alice and Last Name) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 482.60 Td
+(holds Smith.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.82 0.12 0.12 rg
+497.00 491.00 Td
+(As you type into Last Name, the text inside the) Tj
+ET
+BT
+/F1 6.8 Tf
+0.82 0.12 0.12 rg
+497.00 482.60 Td
+(First Name field gets overwritten with Smith.) Tj
+ET
+BT
+/F2 7.5 Tf
+0.82 0.12 0.12 rg
+682.00 490.00 Td
+(Critical) Tj
+ET
+1 w
+1 1 1 rg
+36.00 363.60 720.00 61.60 re
+f
+0.6 w
+0.85 0.88 0.92 RG
+36.00 363.60 m
+756.00 363.60 l
+S
+BT
+/F2 7.5 Tf
+0 0.32 0.75 rg
+42.00 411.20 Td
+(TC-17) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 411.20 Td
+(Order Completion Fails) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 402.60 Td
+(on Checkout Overview) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 394.00 Td
+(\("Finish" button\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 412.20 Td
+(1. Log in with error_user / secret_sauce.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 403.80 Td
+(2. Add any item \(e.g. Bike Light\) and) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 395.40 Td
+(navigate through Checkout Step 1.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 387.00 Td
+(3. On Checkout Overview) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 378.60 Td
+(\(/checkout-step-two.html\), click the) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 370.20 Td
+("Finish" button.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 412.20 Td
+(Order completes successfully and user) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 403.80 Td
+(is redirected to) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 395.40 Td
+(/checkout-complete.html with "Thank) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 387.00 Td
+(you for your order!".) Tj
+ET
+BT
+/F1 6.8 Tf
+0.82 0.12 0.12 rg
+497.00 412.20 Td
+(Clicking "Finish" does nothing. An unhandled) Tj
+ET
+BT
+/F1 6.8 Tf
+0.82 0.12 0.12 rg
+497.00 403.80 Td
+(JavaScript error is thrown and the order cannot be) Tj
+ET
+BT
+/F1 6.8 Tf
+0.82 0.12 0.12 rg
+497.00 395.40 Td
+(placed.) Tj
+ET
+BT
+/F2 7.5 Tf
+0.82 0.12 0.12 rg
+682.00 411.20 Td
+(Critical) Tj
+ET
+1 w
+0.97 0.98 0.99 rg
+36.00 315.60 720.00 48.00 re
+f
+0.6 w
+0.85 0.88 0.92 RG
+36.00 315.60 m
+756.00 315.60 l
+S
+BT
+/F2 7.5 Tf
+0 0.32 0.75 rg
+42.00 349.60 Td
+(TC-18) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 349.60 Td
+(Cart badge update on) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 341.00 Td
+(removing an item in) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 332.40 Td
+(cart) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 350.60 Td
+(1. Add 2 items to the cart from the) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 342.20 Td
+(inventory page \(badge shows 2\).) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 333.80 Td
+(2. Click the cart icon to enter /cart.html.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 325.40 Td
+(3. Click "Remove" on one of the items.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 350.60 Td
+(Item disappears from the list and the) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 342.20 Td
+(cart badge updates from 2 to 1.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+497.00 350.60 Td
+(Item is removed from the table and the cart badge) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+497.00 342.20 Td
+(immediately decrements from 2 to 1.) Tj
+ET
+BT
+/F2 7.5 Tf
+0.12 0.55 0.22 rg
+682.00 349.60 Td
+(Low \(Pass\)) Tj
+ET
+1 w
+1 1 1 rg
+36.00 267.60 720.00 48.00 re
+f
+0.6 w
+0.85 0.88 0.92 RG
+36.00 267.60 m
+756.00 267.60 l
+S
+BT
+/F2 7.5 Tf
+0 0.32 0.75 rg
+42.00 301.60 Td
+(TC-19) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 301.60 Td
+(Login causes a 5-second) Tj
+ET
+BT
+/F2 7.2 Tf
+0.12 0.15 0.2 rg
+86.00 293.00 Td
+(complete browser freeze) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 302.60 Td
+(1. Enter username performance_glitch_user) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 294.20 Td
+(and password secret_sauce.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+192.00 285.80 Td
+(2. Click "Login".) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 302.60 Td
+(Page transitions to inventory within 1) Tj
+ET
+BT
+/F1 6.8 Tf
+0.18 0.22 0.28 rg
+352.00 294.20 Td
+(to 2 seconds.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.82 0.12 0.12 rg
+497.00 302.60 Td
+(Browser completely freezes for 5 to 8 seconds. The) Tj
+ET
+BT
+/F1 6.8 Tf
+0.82 0.12 0.12 rg
+497.00 294.20 Td
+(cursor remains unresponsive and the page looks) Tj
+ET
+BT
+/F1 6.8 Tf
+0.82 0.12 0.12 rg
+497.00 285.80 Td
+(broken before suddenly loading.) Tj
+ET
+BT
+/F2 7.5 Tf
+0.78 0.45 0.05 rg
+682.00 301.60 Td
+(High) Tj
+ET
+1 w
+0.85 0.88 0.92 RG
+36.00 36.00 m
+756.00 36.00 l
+S
+BT
+/F1 7.5 Tf
+0.45 0.5 0.56 rg
+36.00 22.00 Td
+(Swag Labs \(SauceDemo\) QA Test Case Documentation  |  Exact Text Unmodified) Tj
+ET
+BT
+/F2 7.5 Tf
+0.05 0.14 0.28 rg
+715.00 22.00 Td
+(Page 4 of 4) Tj
+ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> /F3 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >> >> >> /Contents 9 0 R >>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000134 00000 n 
+0000002478 00000 n 
+0000002784 00000 n 
+0000012897 00000 n 
+0000013203 00000 n 
+0000023843 00000 n 
+0000024149 00000 n 
+0000031570 00000 n 
+trailer
+<< /Size 11 /Root 1 0 R >>
+startxref
+31877
+%%EOF
